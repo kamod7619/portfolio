@@ -1,6 +1,6 @@
 # Kamod Kumar Portfolio
 
-![Portfolio Screenshot](assets/portfolio-screenshot.png)
+![Portfolio Screenshot](attached_assets/ss_dark.png)
 
 ## Hi, I'm Kamod Kumar 👋  
 **Full Stack Developer**
@@ -25,7 +25,7 @@ Passionate about writing clean, efficient code and crafting seamless, user-frien
 > Replace the image below with your actual screenshot  
 > Save your screenshot as `portfolio-screenshot.png` inside an `assets` folder
 
-![Screenshot](assets/portfolio-screenshot.png)
+![Screenshot](attached_assets/ss_light.png)
 
 ---
 
