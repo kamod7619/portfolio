@@ -22,8 +22,6 @@ Passionate about writing clean, efficient code and crafting seamless, user-frien
 ---
 
 ### 📸 Portfolio Screenshot:
-> Replace the image below with your actual screenshot  
-> Save your screenshot as `portfolio-screenshot.png` inside an `assets` folder
 
 ![Screenshot](attached_assets/ss_light.png)
 
