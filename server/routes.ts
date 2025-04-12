@@ -11,7 +11,7 @@ export async function registerRoutes(app: Express): Promise<Server> {
       name: "Kamod Kumar",
       title: "Full Stack Developer",
       email: "kamod7619@gmail.com",
-      phone: "+91 9598132392, +60 1112460063",
+      phone: "+91 9598132392, +60 1124375611",
       location: "Noida, Sector-15, India"
     });
   });
