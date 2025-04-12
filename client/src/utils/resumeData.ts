@@ -119,7 +119,7 @@ export const resumeData = {
       company: "GreenHonchos Solutions Pvt Ltd",
       duration: "May 2021 - Present",
       description:
-        "Empowering e-commerce through full-stack solutions, driving growth with robust platforms and seamless integrations.",
+        "Empowering e-commerce through full-stack solutions, driving growth with robust platforms and seamless integrations. I work on building scalable e-commerce products, managing backend development with PHP (Laravel, Lumen) and MySQL, and frontend with VueJS, NuxtJS, and related technologies. I’ve integrated key third-party services (Razorpay, Gupshup, ClickPost, Ameyo IVR, etc.), handled cloud deployments on AWS and S3, and used GitHub, Bitbucket, and Heroku for version control and CI/CD.",
       technologies: [
         "PHP",
         "Laravel",
@@ -144,7 +144,7 @@ export const resumeData = {
       title: "PHP Developer",
       company: "Minerva Infotech Pvt Ltd",
       duration: "June 2020 - May 2021",
-      description: "Handled backend development using various technologies.",
+      description: "Worked as a PHP Developer focusing on backend development using PHP, CodeIgniter and MySQL. Also contributed to frontend development with HTML5, CSS3, JavaScript, jQuery, and AJAX to build dynamic and responsive web applications.",
       technologies: [
         "Node.js",
         "PHP",
@@ -165,7 +165,7 @@ export const resumeData = {
       company: "MoofthWell Pvt Ltd",
       duration: "Jan 2020 - May 2020",
       description:
-        "Handled both backend and frontend development and led a team of developers.",
+        "Worked as a Sr. Software Developer handling full-stack development using PHP (Laravel, CodeIgniter), MySQL, and frontend technologies like HTML, CSS, JavaScript, and jQuery. Led a team of 10+ developers, managed server deployments (AWS, S3, GoDaddy), and integrated third-party services including social logins and multiple payment gateways.",
       technologies: [
         "PHP",
         "Laravel",
@@ -187,7 +187,7 @@ export const resumeData = {
       company: "Younggeeks Technologies",
       duration: "Feb 2018 - Jan 2020",
       description:
-        "Handled both backend and frontend development and led a team of developers.",
+        "Worked as a PHP Developer managing both backend (Laravel, CodeIgniter, MySQL) and frontend (HTML, CSS, JavaScript, jQuery) development. Led a team of 6 developers, handled AWS server setups and domain hosting, and integrated third-party services like social logins and payment gateways (Razorpay, PayU).",
       technologies: [
         "PHP",
         "Laravel",
