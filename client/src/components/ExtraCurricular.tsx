@@ -64,7 +64,7 @@ const ExtraCurricular = () => {
             <h3 className="text-2xl font-semibold text-[#333] dark:text-white mb-6">Extramile Certificate</h3>
             <div className="relative aspect-video overflow-hidden rounded-xl shadow-lg">
               <img 
-                src="https://media.licdn.com/dms/image/v2/D562DAQHYgewIyNnwyw/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1714457038172?e=1743829200&v=beta&t=NIxjlK85g5KQnATymzuvscGwJNVTgEpjQerHLUQeaOI"
+                src="https://media.licdn.com/dms/image/v2/D562DAQHYgewIyNnwyw/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1714457038172?e=1744945200&v=beta&t=NRwc3nRRspDinFkJrU2blid2buNzfEhiLXpXhQkttQc"
                 alt="Extramile Certificate"
                 className="w-full h-full object-cover transition-transform duration-500 hover:scale-105"
                 onError={(e) => {
