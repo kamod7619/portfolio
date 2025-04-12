@@ -119,7 +119,7 @@ export const resumeData = {
       company: "GreenHonchos Solutions Pvt Ltd",
       duration: "May 2021 - Present",
       description:
-        "Working on e-commerce products, handling both backend and frontend development.",
+        "Empowering e-commerce through full-stack solutions, driving growth with robust platforms and seamless integrations.",
       technologies: [
         "PHP",
         "Laravel",

@@ -98,7 +98,7 @@ const Hero = () => {
             </h2>
 
             <div
-              className={`text-lg text-[#555] dark:text-gray-300 mb-8 max-w-lg transition-all duration-1000 ${
+              className={`text-lg text-[#555] dark:text-gray-300 mb-8 max-w-3xl transition-all duration-1000 ${
                 isVisible
                   ? "translate-y-0 opacity-100"
                   : "translate-y-8 opacity-0"
@@ -106,11 +106,17 @@ const Hero = () => {
               style={{ transitionDelay: "800ms" }}
             >
               <p>
-                A highly skilled Full Stack Developer with over 6+ years of
+                {/* A highly skilled Full Stack Developer with over 6+ years of
                 experience in designing and implementing web applications in
                 LAMP (Linux, Apache, MySQL, PHP) and WAMP (Windows, Apache,
                 MySQL, PHP) environments. Passionate about clean, efficient code
-                and creating seamless user experiences.
+                and creating seamless user experiences. */}
+
+                A highly skilled Full Stack Developer with 6+ years of architecting and delivering complex web solutions across LAMP and WAMP stacks.
+Specialized in building performant, scalable applications using PHP (Laravel, CodeIgniter), NodeJS, VueJS, and ReactJS.
+Strong command over database design, RESTful APIs, server management (AWS), and modern DevOps workflows.
+Adept at leading cross-functional teams, driving agile development, and mentoring junior engineers.
+Committed to writing clean, maintainable code and delivering seamless, enterprise-grade user experiences.
               </p>
             </div>
 

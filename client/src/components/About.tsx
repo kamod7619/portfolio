@@ -97,9 +97,15 @@ const About = () => {
             About Me
           </h2>
           <div className="w-20 h-1 bg-primary mx-auto mb-8"></div>
-          <p className="text-lg text-[#555] dark:text-gray-300 max-w-2xl mx-auto">
-            A passionate Full Stack Developer with 6+ years of experience in
-            designing and implementing various web applications
+          <p className="text-lg text-[#555] dark:text-gray-300 max-w-3xl mx-auto">
+            {/* A passionate Full Stack Developer with 6+ years of experience in
+            designing and implementing various web applications */}
+           I’m a passionate Full Stack Developer of crafting powerful, user-focused web applications.
+Driven by curiosity and innovation, I bring ideas to life with clean code and modern technologies.
+From Laravel to NodeJS, VueJS to React, I thrive in building seamless digital experiences front to back.
+I love solving complex challenges and creating intuitive interfaces that users truly enjoy.
+Beyond code, I lead teams, mentor developers, and constantly push for better, smarter solutions.
+Every project is a new opportunity to grow, innovate, and make a real impact.
           </p>
         </div>
 
